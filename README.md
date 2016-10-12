@@ -30,6 +30,8 @@ A retro game collection catalog/management app.
 * XBox
 * Gamecube
 
+Retired: GBA and Gamecube, upon Alex and Chris' suggestion.
+
 ----
 
 ## Models (ITV):
