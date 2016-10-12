@@ -11,6 +11,8 @@ A retro game collection catalog/management app.
 
 * [Videogame System Icons](http://starvingartist.deviantart.com/art/Antiseptic-Videogame-Systems-23217105) by starvingartist
 
+![](public/images/atari_2600.gif) ![](public/images/microsoft_xbox.gif) ![](public/images/nintendo_gamecube.gif) ![](public/images/sega_genesis.gif) ![](public/images/sony_playstation_2.gif) Yay~! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
 ----
 
 ## List of Platforms to Catalog By (listed by release date)
