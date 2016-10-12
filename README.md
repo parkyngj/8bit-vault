@@ -26,9 +26,7 @@ A retro game collection catalog/management app.
 * Playstation
 * N64
 * PS2
-* GBA
 * XBox
-* Gamecube
 
 Retired: GBA and Gamecube, upon Alex and Chris' suggestion.
 
