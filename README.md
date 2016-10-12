@@ -95,3 +95,5 @@ In order of feasibility:
   * add attributes via a `before_save` using a bunch of functions
 
 * modals for greying out the rest of the page and displaying partials w/ information (or even login/register pages) [possibly non-MVP]
+
+* possible use of [Amazon API](https://aws.amazon.com/api-gateway/) for buying consoles/games that user doesn't own?
