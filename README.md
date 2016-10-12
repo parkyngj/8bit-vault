@@ -97,3 +97,5 @@ In order of feasibility:
 * modals for greying out the rest of the page and displaying partials w/ information (or even login/register pages) [possibly non-MVP]
 
 * possible use of [Amazon API](https://aws.amazon.com/api-gateway/) for buying consoles/games that user doesn't own?
+
+* possible use of [YouTube API](https://developers.google.com/youtube/) for displaying related videos or etc?
