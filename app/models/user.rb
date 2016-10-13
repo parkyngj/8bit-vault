@@ -12,7 +12,8 @@ class User < ActiveRecord::Base
   validates_presence_of :email
   validates_uniqueness_of :email
 
-  has_and_belongs_to_many :games
+  has_many :ownerships, foreign_key: 'owner_id'
+  has_many :games, through: :ownerships
 
   def password
     @password ||= Password.new(password_hash)

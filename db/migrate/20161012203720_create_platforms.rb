@@ -7,6 +7,7 @@ class CreatePlatforms < ActiveRecord::Migration
       t.string :main_image_url
       t.string :original_price
       t.string :release_date
+
       t.string :gb_id
       t.string :gb_api_detail_url
 
