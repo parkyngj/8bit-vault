@@ -1,0 +1,15 @@
+to-do [AS OF 10/12/2016]
+
+BACK-END
+-figure out how to parse api data and convert using the return into a ruby object
+
+-make RESTful routes and CRUD stuff
+
+FRONT-END
+
+-javascript live search elements on page
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=javascript+live+search+elements+on+page
+
+-modals for displaying a game by ID, user login/registration/update
+
+- use icons and retro 8bit font!
