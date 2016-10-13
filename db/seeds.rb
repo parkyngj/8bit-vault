@@ -1,5 +1,3 @@
-require 'faker'
-
 sally = User.create(username: 's', email: 's@s.s', password: 's')
 
 our_users = [sally]
