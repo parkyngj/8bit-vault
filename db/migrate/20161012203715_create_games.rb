@@ -5,6 +5,7 @@ class CreateGames < ActiveRecord::Migration
       t.string :description
       t.string :genre
       t.string :themes
+      t.string :concepts
       t.string :main_image_url
       t.string :release_date
       t.integer :platform_id

@@ -4,7 +4,10 @@ class CreatePlatforms < ActiveRecord::Migration
       t.string :name
       t.string :abbr
       t.string :description
+      t.string :icon32x32
+      t.string :icon16x16
       t.string :main_image_url
+      t.string :install_base
       t.string :original_price
       t.string :release_date
 
