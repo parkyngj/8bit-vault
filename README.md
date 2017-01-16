@@ -1,7 +1,6 @@
-# passion-project
-SO PASSIONATE!
+# 8bit-vault
 
-**ITV STANDS FOR INITIAL THOUGHT VOMIT**
+~ A previous iteration of my passion project from Phase 2 of DBC. Project is currently on hold as of 1/16. ~
 
 A retro game collection catalog/management app.
 
@@ -11,7 +10,7 @@ A retro game collection catalog/management app.
 
 * [Videogame System Icons](http://starvingartist.deviantart.com/art/Antiseptic-Videogame-Systems-23217105) by starvingartist
 
-![](public/images/atari_2600.gif) ![](public/images/microsoft_xbox.gif) ![](public/images/nintendo_gamecube.gif) ![](public/images/sega_genesis.gif) ![](public/images/sony_playstation_2.gif) Yay~! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+![](public/images/atari_2600.gif) ![](public/images/microsoft_xbox.gif) ![](public/images/nintendo_gamecube.gif) ![](public/images/sega_genesis.gif) (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 ----
 
