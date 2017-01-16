@@ -1,6 +1,6 @@
 # 8bit-vault
 
-~ A previous iteration of my passion project from Phase 2 of DBC. Project is currently on hold as of 1/16. ~
+~ A previous iteration of my passion project from Phase 2 of DBC. Project is currently on hold as of 1/16/17. ~
 
 A retro game collection catalog/management app.
 
